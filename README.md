@@ -25,12 +25,6 @@ __      __________/\________________
 © Copyright Voltra Co., 2017
 ```
 
-## Screenshots
-
-![](screens/voltra.png)
-
-![](screens/voltra-copy.png)
-
 ## Installation
 
 ```bash
