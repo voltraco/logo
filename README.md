@@ -28,5 +28,5 @@ __      __________/\________________
 ## Installation
 
 ```bash
-$ npm install voltraco/logo
+$ npm install -g voltraco/logo
 ```
