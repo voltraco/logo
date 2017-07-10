@@ -3,9 +3,9 @@
 
 ## Usage
 
-[](screens/voltra.png)
+![](screens/voltra.png)
 
-[](screens/voltra copy.png)
+![](screens/voltra-copy.png)
 
 ## Installation
 
