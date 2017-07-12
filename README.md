@@ -25,6 +25,8 @@ __      __________/\________________
 © Copyright Voltra Co., 2017
 ```
 
+## Badge
+
 ```bash
 $ voltra badge
 [![development sponsored by voltra.co](https://img.shields.io/badge/Development%20sponsored%20by-Voltra.co-yellow.svg)](https://voltra.co/)
