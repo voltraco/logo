@@ -29,7 +29,7 @@ __      __________/\________________
 
 ```bash
 $ voltra badge
-[![development sponsored by voltra.co](https://img.shields.io/badge/Development%20sponsored%20by-Voltra.co-yellow.svg)](https://voltra.co/)
+[![Development sponsored by voltra.co](https://img.shields.io/badge/Development%20sponsored%20by-Voltra.co-yellow.svg)](https://voltra.co/)
 ```
 
 Preview:
