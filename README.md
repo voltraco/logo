@@ -37,5 +37,5 @@ $ voltra badge
 ## Installation
 
 ```bash
-$ npm install -g voltraco/logo
+$ npm install -g voltra-logo
 ```

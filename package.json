@@ -1,8 +1,7 @@
 {
   "name": "voltra-logo",
   "version": "0.0.0",
-  "private": true,
-  "license": "UNLICENSED",
+  "license": "MIT",
   "repository": "voltraco/logo",
   "bin": {
     "voltra": "index.js"
